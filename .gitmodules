@@ -1,3 +1,9 @@
 [submodule "Cores/iRetroGBCCore"]
 	path = Cores/iRetroGBCCore
 	url = https://github.com/davide-andreoli/iRetroGBCCore.git
+[submodule "Cores/iRetroCore"]
+	path = Cores/iRetroCore
+	url = https://github.com/davide-andreoli/iRetroCore.git
+[submodule "iRetroApp"]
+	path = iRetroApp
+	url = https://github.com/davide-andreoli/iRetroApp.git
