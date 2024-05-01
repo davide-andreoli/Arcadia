@@ -1,0 +1,3 @@
+[submodule "Cores/iRetroGBCCore"]
+	path = Cores/iRetroGBCCore
+	url = https://github.com/davide-andreoli/iRetroGBCCore.git
