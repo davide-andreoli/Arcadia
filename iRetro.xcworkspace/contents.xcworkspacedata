@@ -2,12 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Cores/iRetroGBCCore/iRetroGBCCore.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:iRetroApp/iRetroApp.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Cores/iRetroCore/iRetroCore.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:Cores/iRetroGBCCore/iRetroGBCCore.xcodeproj">
    </FileRef>
 </Workspace>
