@@ -2,12 +2,12 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:Cores/iRetroGBCCore/iRetroGBCCore.xcodeproj">
+      location = "group:/Users/davideandreoli/Developer/iRetro/Cores/iRetroGBCCore/ArcadiaGBCCore.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:iRetroApp/iRetroApp.xcodeproj">
+      location = "group:/Users/davideandreoli/Developer/iRetro/iRetroApp/Arcadia.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:Cores/iRetroCore/iRetroCore.xcodeproj">
+      location = "group:/Users/davideandreoli/Developer/iRetro/Cores/iRetroCore/ArcadiaCore.xcodeproj">
    </FileRef>
 </Workspace>
