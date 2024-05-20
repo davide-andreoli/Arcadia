@@ -6,4 +6,4 @@
 	url = https://github.com/davide-andreoli/iRetroCore.git
 [submodule "iRetroApp"]
 	path = iRetroApp
-	url = https://github.com/davide-andreoli/iRetroApp.git
+	url = https://github.com/davide-andreoli/ArcadiaApp.git
