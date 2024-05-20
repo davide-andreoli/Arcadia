@@ -1,9 +1,9 @@
-[submodule "Cores/iRetroGBCCore"]
-	path = Cores/iRetroGBCCore
+[submodule "Cores/ArcadiaGBCCore"]
+	path = Cores/ArcadiaGBCCore
 	url = https://github.com/davide-andreoli/ArcadiaGBCCore.git
-[submodule "Cores/iRetroCore"]
-	path = Cores/iRetroCore
+[submodule "Cores/ArcadiaCore"]
+	path = Cores/ArcadiaCore
 	url = https://github.com/davide-andreoli/ArcadiaCore.git
-[submodule "iRetroApp"]
-	path = iRetroApp
+[submodule "ArcadiaApp"]
+	path = ArcadiaApp
 	url = https://github.com/davide-andreoli/ArcadiaApp.git

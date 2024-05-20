@@ -8,6 +8,9 @@
       location = "group:/Users/davideandreoli/Developer/iRetro/iRetroApp/Arcadia.xcodeproj">
    </FileRef>
    <FileRef
+      location = "group:ArcadiaApp/Arcadia.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:/Users/davideandreoli/Developer/iRetro/Cores/iRetroCore/ArcadiaCore.xcodeproj">
    </FileRef>
 </Workspace>
