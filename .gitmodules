@@ -7,3 +7,6 @@
 [submodule "ArcadiaApp"]
 	path = ArcadiaApp
 	url = https://github.com/davide-andreoli/ArcadiaApp.git
+[submodule "Cores/ArcadiaNESCore"]
+	path = Cores/ArcadiaNESCore
+	url = https://github.com/davide-andreoli/ArcadiaNESCore.git
