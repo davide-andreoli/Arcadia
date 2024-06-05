@@ -10,3 +10,6 @@
 [submodule "Cores/ArcadiaNESCore"]
 	path = Cores/ArcadiaNESCore
 	url = https://github.com/davide-andreoli/ArcadiaNESCore.git
+[submodule "Cores/ArcadiaGBACore"]
+	path = Cores/ArcadiaGBACore
+	url = https://github.com/davide-andreoli/ArcadiaGBACore.git
