@@ -2,18 +2,18 @@
 <Workspace
    version = "1.0">
    <FileRef
-      location = "group:Cores/ArcadiaGBACore/ArcadiaGBACore.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:ArcadiaApp/Arcadia.xcodeproj">
-   </FileRef>
-   <FileRef
-      location = "group:Cores/ArcadiaCore/ArcadiaCore.xcodeproj">
+      location = "group:Cores/ArcadiaNESCore/ArcadiaNESCore.xcodeproj">
    </FileRef>
    <FileRef
       location = "group:Cores/ArcadiaGBCCore/ArcadiaGBCCore.xcodeproj">
    </FileRef>
    <FileRef
-      location = "group:Cores/ArcadiaNESCore/ArcadiaNESCore.xcodeproj">
+      location = "group:Cores/ArcadiaGBACore/ArcadiaGBACore.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:Cores/ArcadiaCore/ArcadiaCore.xcodeproj">
+   </FileRef>
+   <FileRef
+      location = "group:ArcadiaApp/Arcadia.xcodeproj">
    </FileRef>
 </Workspace>
