@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Cores/ArcadiaSNESCore/ArcadiaSNESCore.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Cores/ArcadiaNESCore/ArcadiaNESCore.xcodeproj">
    </FileRef>
    <FileRef
