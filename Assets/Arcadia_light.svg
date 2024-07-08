@@ -24,9 +24,9 @@
      inkscape:pagecheckerboard="true"
      inkscape:deskcolor="#d1d1d1"
      inkscape:document-units="px"
-     inkscape:zoom="4.3001246"
-     inkscape:cx="40.580219"
-     inkscape:cy="73.83507"
+     inkscape:zoom="3.6985272"
+     inkscape:cx="46.369809"
+     inkscape:cy="75.300244"
      inkscape:window-width="1680"
      inkscape:window-height="916"
      inkscape:window-x="0"
@@ -253,7 +253,7 @@
        x2="13.18595"
        y2="0.26988712"
        gradientUnits="userSpaceOnUse"
-       gradientTransform="matrix(1.0031348,0,0,1.0031348,-0.08294148,-0.08294148)" />
+       gradientTransform="matrix(0.99685088,0,0,0.99685088,4.4918854e-4,4.4918854e-4)" />
     <inkscape:path-effect
        effect="fillet_chamfer"
        id="path-effect98"
@@ -330,9 +330,9 @@
      inkscape:label="Icon mask" />
   <path
      id="rect17"
-     style="display:inline;mix-blend-mode:multiply;fill:url(#linearGradient19);fill-opacity:1;stroke:#000000;stroke-width:0.166787;stroke-dasharray:none;stroke-opacity:0;paint-order:markers fill stroke"
+     style="display:inline;mix-blend-mode:multiply;fill:url(#linearGradient19);fill-opacity:1;stroke:#000000;stroke-width:0.165743;stroke-dasharray:none;stroke-opacity:0;paint-order:markers fill stroke"
      inkscape:label="Colored background"
-     d="M 3.6048441,0 A 4.4235666,4.4235664 0 0 0 0,3.6048441 V 22.771065 a 4.4235666,4.4235664 0 0 0 4.3409499,3.687268 H 22.03496 A 4.4235666,4.4235664 0 0 0 26.458333,22.03496 V 13.187695 4.3409499 A 4.4235666,4.4235664 0 0 0 22.871633,0 Z" />
+     d="M 3.6651334,0.0828711 A 4.3958562,4.395856 0 0 0 0.0828711,3.6651334 V 22.711292 a 4.3958562,4.395856 0 0 0 4.3137571,3.66417 H 21.979798 a 4.3958562,4.395856 0 0 0 4.395664,-4.395664 V 13.187955 4.3966282 A 4.3958562,4.395856 0 0 0 22.81123,0.0828711 Z" />
   <path
      id="path4"
      style="display:inline;fill:#f9f9f9;fill-opacity:1;stroke:none;stroke-opacity:0.459575;font-variation-settings:'YROT' 45;opacity:0.99;stroke-width:0;stroke-linecap:round;stroke-linejoin:round;paint-order:markers fill stroke"
