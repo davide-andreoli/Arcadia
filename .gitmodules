@@ -19,3 +19,6 @@
 [submodule "Cores/ArcadiaAtari2600Core"]
 	path = Cores/ArcadiaAtari2600Core
 	url = https://github.com/davide-andreoli/ArcadiaAtari2600Core.git
+[submodule "Cores/ArcadiaAtari7800Core"]
+	path = Cores/ArcadiaAtari7800Core
+	url = https://github.com/davide-andreoli/ArcadiaAtari7800Core.git
