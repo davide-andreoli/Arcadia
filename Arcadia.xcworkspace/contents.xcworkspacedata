@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Cores/ArcadiaNeoGeoPocketCore/ArcadiaNeoGeoPocketCore.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Cores/ArcadiaAtari7800Core/ArcadiaAtari7800Core.xcodeproj">
    </FileRef>
    <FileRef
