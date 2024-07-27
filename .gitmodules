@@ -28,3 +28,6 @@
 [submodule "Cores/ArcadiaGenesisCore"]
 	path = Cores/ArcadiaGenesisCore
 	url = https://github.com/davide-andreoli/ArcadiaGenesisCore.git
+[submodule "Cores/ArcadiaMasterSystemCore"]
+	path = Cores/ArcadiaMasterSystemCore
+	url = https://github.com/davide-andreoli/ArcadiaMasterSystemCore.git
