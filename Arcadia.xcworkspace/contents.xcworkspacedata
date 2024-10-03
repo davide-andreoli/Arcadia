@@ -2,6 +2,9 @@
 <Workspace
    version = "1.0">
    <FileRef
+      location = "group:Cores/ArcadiaPokemonMiniCore/ArcadiaPokemonMiniCore.xcodeproj">
+   </FileRef>
+   <FileRef
       location = "group:Cores/ArcadiaMasterSystemCore/ArcadiaMasterSystemCore.xcodeproj">
    </FileRef>
    <FileRef
