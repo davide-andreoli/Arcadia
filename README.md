@@ -31,6 +31,7 @@ To reproduce the build correctly, there are some small modifications that should
 - Cores/ArcadiaAtari2600Core/ArcadiaAtari2600Core/stella2014-libretro/stella/src/emucore/Console.hxx: line 261 should be modified to be `float getFramerate() const { return 59.92; }`
 - Cores/ArcadiaNeoGeoPocketCore/ArcadiaNeoGeoPocketCore/RACE/tlcs900h.c: all occurencies of the function `normal` should be modified to something else, like `normalRace`
 - Cores/ArcadiaNeoGeoPocketCore/ArcadiaNeoGeoPocketCore/RACE/tlcs900h.c: all occurencies of the function `link` should be modified to something else, like `linkRace`
+- Cores/ArcadiaPokemonMiniCore/ArcadiaPokemonMiniCore/PokeMini/libretro/libretro.c: `retro_get_memory_data` should be modified to return EEPROM instead of PM_RAM at line 898
 
 This changes are local and not reported in the repository, it is not an ideal situation I know, but I couldn't find a way to solve the compilation issues.
 
